@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * **Doctor of Philosophy in Industrial Innovation ·** January 2020 - present <br/>
 _University of Trento - Trento, Trentino–Alto Adige, Italy_ <br/>
   * Research in dynamic authorisation and continuous usage control
@@ -19,8 +18,7 @@ _University of Trento - Trento, Trentino–Alto Adige, Italy_ <br/>
 * **Bachelor of Engineering in Computer & Communications ·** October 2011 - July 2016 <br/>
 _Islamic University of Lebanon – Khaldeh, Beirut, Lebanon_
 
-Work experience
-======
+## Work experience
 * **Doctoral Student ·** January 2020 - present <br/>
 _Huawei Research Centre – Munich, Bavaria, Germany_
   * Conducting PhD research in session and state management in continuous usage control and dynamic authorisation.
@@ -55,12 +53,10 @@ _Mobi-Mind – Jal El Deeb, Beirut, Lebanon_
 _CME Offshore – Sami Al-Solh, Badaro, Beirut, Lebanon_
   * Shadowed the system administrator in setting up and maintaining iSCSI SAN, VMware VSphere and ESXi, Linux gateway and firewall, and other systems.
  
-Awards
-======
+## Awards
 * **University of Kent School of Computing Award for an Outstanding Performance ·** November 2018
   
-Skills
-======
+## Skills
 * **Computer and Network Security**
   * Solid understanding of security protocols and principles such as TLS, PKI, AES, multi-factor authentication, digital signatures, Verifiable Credentials, etc
   * Strong knowledge of access control technologies as well as XACML and ALFA policy languages
@@ -79,14 +75,12 @@ Skills
   * Problem-solving and analytical thinking
   * Team work, communication, organisation and time management
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Volunteering and Side Projects
-======
+## Volunteering and Side Projects
 * **OpenApp ·** [available on Google Play store](https://play.google.com/store/apps/details?id=com.thecodefather.openapp&hl=en)
   * A community mobile application that provides a social platform and virtual support groups for people open up about their problems and issues, and to spread mental health awareness.
 * **Password E-Safe ·** [available on Google Play Store](https://play.google.com/store/apps/details?id=com.clapsforapps.password_e_safe&hl=en)
@@ -95,13 +89,11 @@ Volunteering and Side Projects
   * Joined a team of volunteers and successfully launched Feed Movement which aims to help the unfortunate.
   * Developed a donation management Android app used by the team to track donations and food shares.
 
-Interests & Activities
-======
+## Interests & Activities
 * Scientific interest in Astronomy, Astrophysics, Psychology and Neurobiology.
 * With a DSLR camera and admiration of natural views, hiking and photography became an interest.
   
-Languages
-======
+## Languages
 * **Arabic** (native)
 * **English** (fluent)
 * **German** (beginner)
