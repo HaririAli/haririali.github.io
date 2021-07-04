@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/heartbeats
 date: 2019-09-26
 venue: 'The 2nd International Workshop on Attacks and Defenses for Internet-of-Things (ADIoT 2019) @ ESORICS'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-42048-2_23'
 citation: 'Ali Hariri, Nicolas Giannelos and Budi Arief'
 ---
+
 [Proceedings](https://www.cs.kent.ac.uk/people/staff/ba284/Papers/ADIoT2019.pdf)
 
 ## Abstract

@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/siuv
 date: 2021-06-22
 venue: 'IFIP International Conference on ICT Systems Security and Privacy Protection'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-78120-0_3'
 citation: 'Ali Hariri, Subhajit Bandopadhyay, Athanasios Rizos, Theo Dimitrakos, Bruno Crispo and Muttukrishnan Rajarajan'
 ---
+
 [Proceedings](https://link.springer.com/chapter/10.1007/978-3-030-78120-0_3)
 
 ## Abstract

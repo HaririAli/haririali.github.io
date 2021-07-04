@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/aparecium
 date: 2020-06-15
 venue: '2020 International Wireless Communications and Mobile Computing (IWCMC)'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9148272'
 citation: 'Ali Ghandour, Jamal Haydar, Ali Hariri and Jad Chahine'
 ---
+
 [Proceedings](https://ieeexplore.ieee.org/abstract/document/9148272)
 
 ## Abstract
