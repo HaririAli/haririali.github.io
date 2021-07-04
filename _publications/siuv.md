@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 1"
+title: "SIUV: A Smart Car Identity Management and Usage Control System Based on Verifiable Credentials"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/siuv
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
