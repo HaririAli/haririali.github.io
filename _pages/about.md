@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "Welcome"
-excerpt: "Welcome"
+title: "Hello and welcome to my personal website!"
+excerpt: "Hello and welcome to my personal website!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello and welcome to my personal website!
-
+---
+### About me
 I am a PhD student specialising in the field of dynamic authorisation and continuous usage control.
-I am specifically working on session and state management in distributed Usage Control (UCON) as well as data flow and process control.
+I am specifically working on session and state management in distributed Usage Control as well as data flow and process control.
 I received my Master of Science (MSc.) degree from the university of Kent in the UK where I worked on IoT security and discovered a minor vulnerability in home security kits.
 I completed a Bachelor of Engineering (BEng.) degree in computer and communications at the Islamic University of Lebanon, where I studied a wide variety of topics from telecommunications and electronics to computer networks and programming. 
 
