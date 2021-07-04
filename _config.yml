@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : AliHariri
 facebook:
-  username               :
+  username               : AliHariri93
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  name             : "Ali Hariri"
+  avatar           : "profile.jpg"
+  bio              : "Doctoral Student in Cyber Security | Software Engineer"
+  location         : "Munich, Germany"
+  employer         : "Huawei Munich Research Centre"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=ETuNp0kAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,22 +94,22 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "AliHariri93"
   foursquare       :
-  github           : "academicpages"
+  github           : "HaririAli"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "AliHariri93"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "HaririAli"
+  orcid            : "http://orcid.org/0000-0002-1985-6496"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "AliHariri"
   vine             :
   weibo            :
   xing             :
