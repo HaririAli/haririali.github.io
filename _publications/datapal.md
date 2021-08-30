@@ -2,6 +2,7 @@
 title: "DataPAL: Data Protection and Authorization Lifecycle framework"
 collection: publications
 permalink: /publication/datapal
+date: 2021-09-23
 venue: '6th South-East Europe Design Automation, Computer Engineering, Computer Networks and Social Media Conference (SEEDA-CECNSM)'
 citation: 'Subhajit Bandopadhyay, Theo Dimitrakos, Yair Diaz, Ali Hariri, Tezcan Dilshener, Antonio La Marra and Alessandro Rosetti'
 ---
