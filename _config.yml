@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Ali Hariri"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Ali Hariri"
-description              : &description "personal description"
+#description              : &description "personal description"
 url                      : https://HaririAli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Hariri/HaririAli.github.io"
@@ -87,26 +87,27 @@ author:
   employer         : "Huawei Munich Research Centre"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=ETuNp0kAAAAJ&hl=en"
-  email            : "hariri.ali.93@gmail.com"
+  email            : "hariri.ali.93@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        :
+  bitbucket        : "HaririAli"
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "HaririAli93"
+  facebook         : # "HaririAli93"
   foursquare       :
   github           : "HaririAli"
+  gitlab           : "HaririAli"
   google_plus      :
   keybase          :
-  instagram        : "HaririAli93"
+  instagram        : #"HaririAli93"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "HaririAli"
   orcid            : "http://orcid.org/0000-0002-1985-6496"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "9458762"
   steam            :
   tumblr           :
   twitter          : "AliHariri"
@@ -175,16 +176,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -209,15 +201,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-#  - scope:
-#      path: ""
-#      type: teaching
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comments: true
   # _publications
   - scope:
       path: ""
@@ -227,23 +210,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-#  - scope:
-#      path: ""
-#      type: portfolio
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comment: true
-  # _talks
-#  - scope:
-#      path: ""
-#      type: talks
-#    values:
-#      layout: talk
-#      author_profile: true
-#      share: true
 
 # Sass/SCSS
 sass:
@@ -272,36 +238,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
-
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
 
 # HTML Compression
 # - http://jch.penibelst.de/

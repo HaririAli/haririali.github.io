@@ -196,8 +196,8 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
-    color: #fff;
+    background-color: $background-color;
+    color: $border-color;
     cursor: pointer;
   }
 
@@ -255,10 +255,10 @@
     right: 0;
     margin-top: 15px;
     padding: 5px;
-    border: 1px solid $border-color;
-    border-radius: $border-radius;
-    background: #fff;
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    /*border: 1px solid $border-color;
+    border-radius: $border-radius;*/
+    background: #1D1D1D;
+    box-shadow: 0 0 8px rgba(#000, 0.25);
 
     a {
       margin: 0;
@@ -277,9 +277,9 @@
       top: -11px;
       right: 10px;
       width: 0;
-      border-style: solid;
+      /*border-style: solid;
       border-width: 0 10px 10px;
-      border-color: $border-color transparent;
+      border-color: $border-color transparent;*/
       display: block;
       z-index: 0;
     }
@@ -292,7 +292,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: #fff transparent;
+      border-color: #1D1D1D transparent;
       display: block;
       z-index: 1;
     }
