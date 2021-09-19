@@ -132,7 +132,7 @@
     text-align: center;
     text-decoration: none;
     color: mix(#fff, $gray, 50%);
-    border: 1px solid $light-gray;
+    border: 1px solid $border-color;
     border-radius: $border-radius;
 
     &:hover {
@@ -197,7 +197,7 @@
     border: 0;
     outline: none;
     background-color: $background-color;
-    color: $border-color;
+    color: $text-color;
     cursor: pointer;
   }
 
@@ -266,8 +266,8 @@
       font-size: $type-size-5;
 
       &:hover {
-        color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        color: #1D1D1D;
+        background: $border-color;
       }
     }
 
